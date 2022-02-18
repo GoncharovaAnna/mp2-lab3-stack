@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestStack", "TestStack\Test
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stack", "Stack\Stack.vcxproj", "{E9E8651F-7BC6-480D-A929-8D5107B5EB36}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppWinForm1", "Vis\CppWinForm1.vcxproj", "{9696B190-8A31-45BA-A43E-0287102EF438}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppWinForm1", "Graphics-EmptyProject\CppWinForm1.vcxproj", "{9696B190-8A31-45BA-A43E-0287102EF438}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
